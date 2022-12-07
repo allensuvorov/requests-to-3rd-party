@@ -4,7 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"jobsearch/companies/axxonsoft/projects/3rdparty/internal/remote/routers"
+	//"jobsearch/companies/axxonsoft/projects/3rdparty/internal/remote/routers"
+	//"github.com/allensuvorov/requests-to-3rd-party/internal/remote/routers"
+	"github.com/allensuvorov/requests-to-3rd-party/internal/remote/routers"
 )
 
 func main() {
